@@ -1,0 +1,6 @@
+{
+  "name": "TourAI – AI Travel Agent & Smart Trip Planner",
+  "description": "An AI-powered travel assistant that understands natural-language requests and generates personalized day-wise itineraries, verified budgets, and live travel information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
